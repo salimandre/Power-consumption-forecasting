@@ -7,3 +7,16 @@ Given two historics of measures produced by a sensor which performs **96 daily m
 - **temperature** from 01/01/2010 to 17/02/2010
 
 we had to **forecast** power consumption on the 17/02/2010.
+
+## Exploratory Data Analysis
+
+## Baseline models
+
+## Linear Regression models
+
+## Exponential models
+
+## ARIMA model
+
+## NNAR model
+
