@@ -19,6 +19,12 @@ We took **46 days as training set** and **1 day as validation set**, measures of
   <img src="img/eda/eda_exam-7-1.jpg" width="210" /> 
 </p>
 
+
+<p float="left">
+  <img src="img/eda/eda_exam-5-1.jpg" width="210" />
+  <img src="img/eda/eda_exam-10-1.jpg" width="210" /> 
+</p>
+
 ## Baseline models
 
 ## Linear Regression models
