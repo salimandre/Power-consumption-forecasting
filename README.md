@@ -126,18 +126,18 @@ On validation set we get the following results:
 We performed the following models:
 
 <p align="center">
-  <img src="img/nnar_model/exam_neural-1-1.jpg" width="450" />
+  <img src="img/nnar_model/neural-1.jpg" width="450" />
 </p>
 
 On validation set we get the following forecasts:
 
 <p align="center">
-  <img src="img/nnar_model/exam_neural-2-1.jpg" width="350" />
+  <img src="img/nnar_model/neural-2.jpg" width="350" />
 </p>
 
 On validation set we get the following results:
 
 <p align="center">
-  <img src="img/nnar_model/exam_neural-3-1.jpg" width="310" />
+  <img src="img/nnar_model/neural-3.jpg" width="310" />
 </p>
 
