@@ -97,7 +97,7 @@ On validation set we get the following results:
 ## ARIMA model
 
 
-We performed the following models:
+We performed the autoregressive integrated moving average model for seasonality (SARIMA):
 
 <p align="center">
   <img src="img/arima_model/sarima-1.jpg" width="450" />
