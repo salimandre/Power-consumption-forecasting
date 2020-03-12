@@ -57,7 +57,7 @@ On validation set we get the following results:
 We performed the following models:
 
 <p align="center">
-  <img src="img/linear_reg/linear_reg-models.jpg" width="310" />
+  <img src="img/linear_reg/linear_reg-models_.jpg" width="310" />
 </p>
 
 On validation set we get the following forecasts:
@@ -71,7 +71,7 @@ On validation set we get the following forecasts:
 On validation set we get the following results:
 
 <p align="center">
-  <img src="img/linear_reg/linear_reg-rmse.jpg" width="310" />
+  <img src="img/linear_reg/linear_reg-rmse_.jpg" width="310" />
 </p>
 
 ## Exponential models
