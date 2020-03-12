@@ -10,9 +10,7 @@ we had to **forecast** power consumption on the 17/02/2010.
 
 ## Exploratory Data Analysis
 
-<p align="center"> 
-<img src="img/eda_exam-1.pdf" width="30%">
-</p>
+![alt-text-1](img/eda/eda_exam-1-1.jpg "title-1") ![alt-text-2](img/edaeda_exam-6-1.jpg "title-2")
 
 ## Baseline models
 
