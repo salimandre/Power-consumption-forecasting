@@ -100,7 +100,7 @@ On validation set we get the following results:
 We performed the autoregressive integrated moving average model for seasonality (SARIMA):
 
 <p align="center">
-  <img src="img/arima_model/sarima-1_.jpg" width="180" />
+  <img src="img/arima_model/sarima-1_.jpg" width="160" />
 </p>
 
 On validation set we get the following forecasts:
@@ -112,7 +112,7 @@ On validation set we get the following forecasts:
 On validation set we get the following results:
 
 <p align="center">
-  <img src="img/arima_model/sarima-4_.jpg" width="220" />
+  <img src="img/arima_model/sarima-4_.jpg" width="200" />
 </p>
 
 ## NNAR model
