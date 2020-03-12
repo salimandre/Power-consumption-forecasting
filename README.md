@@ -79,13 +79,13 @@ On validation set we get the following results:
 We performed the following models:
 
 <p align="center">
-  <img src="img/exp_model/expo-1_.jpg" width="310" />
+  <img src="img/exp_model/expo-1_.jpg" width="410" />
 </p>
 
 On validation set we get the following forecasts:
 
 <p align="center">
-  <img src="img/exp_model/expo-2.jpg" width="310" />
+  <img src="img/exp_model/expo-2.jpg" width="350" />
 </p>
 
 On validation set we get the following results:
