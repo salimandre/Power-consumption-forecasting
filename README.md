@@ -21,7 +21,7 @@ We took **46 days as training set** and **1 day as validation set**, measures of
 
 We observe that both time series have **seasonality**. Although power consumption time series does not have **trend** while temperature time series has a slight trend.
 
-<p float="center">
+<p align="center">
   <img src="img/eda/eda_exam-5-1.jpg" width="310" />
   <img src="img/eda/eda_exam-10-1.jpg" width="310" /> 
 </p>
