@@ -57,7 +57,7 @@ On validation set we get the following results:
 We performed the following models:
 
 <p align="center">
-  <img src="img/linear_reg/linear_reg-models_.jpg" width="310" />
+  <img src="img/linear_reg/linear_reg-models_.jpg" width="280" />
 </p>
 
 On validation set we get the following forecasts:
