@@ -19,14 +19,14 @@ We took **46 days as training set** and **1 day as validation set**, measures of
   <img src="img/eda/eda_exam-7-1.jpg" width="210" /> 
 </p>
 
-We observ that both time series have seasonality. Although power consumption time series does not have trend while temperature time series has a slight trend.
+We observe that both time series have **seasonality**. Although power consumption time series does not have **trend** while temperature time series has a slight trend.
 
 <p float="center">
   <img src="img/eda/eda_exam-5-1.jpg" width="310" />
   <img src="img/eda/eda_exam-10-1.jpg" width="310" /> 
 </p>
 
-On boxplots we notice that for power consumption most of the measures on a day have low variance. Measures near 8 am and 5 pm have high variance though. It could be expected since it is when the
+On **boxplots** we notice that for power consumption most of the measures on a day have low variance. Measures near 8 am and 5 pm have high variance though. It could be expected since it is when the
 
 ## Baseline models
 
