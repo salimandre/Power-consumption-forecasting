@@ -10,6 +10,10 @@ we had to **forecast** power consumption on the 17/02/2010.
 
 ## Exploratory Data Analysis
 
+<p align="center"> 
+<img src="img/eda_exam-1.pdf" width="30%">
+</p>
+
 ## Baseline models
 
 ## Linear Regression models
