@@ -11,10 +11,10 @@ we had to **forecast** power consumption on the 17/02/2010.
 ## Exploratory Data Analysis
 
 <p float="left">
-  <img src="img/eda/eda_exam-1-1.jpg" width="200" />
-  <img src="img/eda/eda_exam-6-1.jpg" width="200" /> 
-  <img src="img/eda/eda_exam-2-1.jpg" width="200" />
-  <img src="img/eda/eda_exam-7-1.jpg" width="200" /> 
+  <img src="img/eda/eda_exam-1-1.jpg" title="train power" width="200" />
+  <img src="img/eda/eda_exam-6-1.jpg" title="train temp" width="200" /> 
+  <img src="img/eda/eda_exam-2-1.jpg" title="val power" width="200" />
+  <img src="img/eda/eda_exam-7-1.jpg" title="val temp" width="200" /> 
 </p>
 
 ## Baseline models
