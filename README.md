@@ -34,7 +34,7 @@ On **boxplots** we notice that for power consumption most of the measures on a d
   <img src="img/baseline/baseline-1.png" width="310" />
 </p>
 
-The second baseline model looks like the following:
+The second baseline model looks like the following (alhough here it has been aggregated over hours instead of daily measures):
 
 <p align="center">
   <img src="img/eda/eda_exam-4-1.jpg" width="310" />
