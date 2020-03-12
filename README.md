@@ -141,3 +141,19 @@ On validation set we get the following results:
   <img src="img/nnar_model/neural-3.jpg" width="310" />
 </p>
 
+## Forecast on test
+
+We were supposed to provide two forecasts one without temperature, the second with temperature. It should be noted though that we could not achieve better results with temperature. Best result was achieved by using additive exponential smoothing in log space.
+
+On test set we performed the following models:
+
+<p align="center">
+  <img src="img/submit/submit-1.jpg" width="350" />
+</p>
+
+On test set we submitted the following forecasts:
+
+<p align="center">
+  <img src="img/submit/submit-2.jpg" width="350" />
+</p>
+
