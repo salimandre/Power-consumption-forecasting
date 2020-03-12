@@ -148,12 +148,12 @@ We were supposed to provide two forecasts one without temperature, the second wi
 On test set we performed the following models:
 
 <p align="center">
-  <img src="img/submit/submit-1.jpg" width="350" />
+  <img src="img/submit/submit-1_.jpg" width="350" />
 </p>
 
 On test set we submitted the following forecasts:
 
 <p align="center">
-  <img src="img/submit/submit-2.jpg" width="350" />
+  <img src="img/submit/submit-2.jpg" width="380" />
 </p>
 
