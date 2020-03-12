@@ -8,6 +8,11 @@ Given two historics of measures produced by a sensor which performs **96 daily m
 
 we had to **forecast** power consumption on the 17/02/2010.
 
+We used the following models:
+* linear regression
+* exponential model
+*
+
 ## Exploratory Data Analysis
 
 We took **46 days as training set** and **1 day as validation set**, measures of the 16/02/2010. Taking 1 day of data as validation may be a bit suspicious, probably 2 days would have been better. Nevertheless our idea was that since we only had to forecast one day, that is 96 measures of the same day, we should take a validation set which would most likely look similar as the test set.  
@@ -74,7 +79,7 @@ On validation set we get the following results:
   <img src="img/linear_reg/linear_reg-rmse_.jpg" width="310" />
 </p>
 
-## Exponential models
+## Exponential Smoothing models
 
 We performed the following models:
 
