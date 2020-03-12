@@ -31,13 +31,13 @@ On **boxplots** we notice that for power consumption most of the measures on a d
 ## Baseline models
 
 <p align="center">
-  <img src="img/baseline/baseline-1-1.jpg" width="310" />
+  <img src="img/baseline/baseline-1-1.png" width="310" />
 </p>
 <p align="center">
   <img src="img/baseline/baseline-2-1.jpg" width="310" />
 </p>
 <p align="center">
-  <img src="img/baseline/baseline-3-1.jpg" width="310" />
+  <img src="img/baseline/baseline-3-1.png" width="310" />
 </p>
 
 ## Linear Regression models
