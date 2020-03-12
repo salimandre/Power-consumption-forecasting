@@ -9,9 +9,10 @@ Given two historics of measures produced by a sensor which performs **96 daily m
 we had to **forecast** power consumption on the 17/02/2010.
 
 We used the following models:
-* linear regression
-* exponential model
-*
+* linear regression (LR)
+* exponential smoothing (Holt-Winters seasonal method) (HW)
+* autoregressive integrated moving average (ARIMA)
+* neural network auto-regressive (NNAR)
 
 ## Exploratory Data Analysis
 
