@@ -40,9 +40,13 @@ The second baseline model looks like the following (alhough here it has been agg
   <img src="img/eda/eda_exam-4-1.jpg" width="310" />
 </p>
 
+On validation set we get the following forecasts:
+
 <p align="center">
   <img src="img/baseline/baseline-2.jpg" width="310" />
 </p>
+
+On validation set we get the following results:
 
 <p align="center">
   <img src="img/baseline/baseline-3.png" width="310" />
