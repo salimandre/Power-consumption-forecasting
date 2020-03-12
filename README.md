@@ -126,7 +126,7 @@ On validation set we get the following results:
 We performed the following models:
 
 <p align="center">
-  <img src="img/nnar_model/neural-1.jpg" width="450" />
+  <img src="img/nnar_model/neural-1.jpg" width="350" />
 </p>
 
 On validation set we get the following forecasts:
