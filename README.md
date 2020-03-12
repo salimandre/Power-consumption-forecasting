@@ -30,6 +30,10 @@ On **boxplots** we notice that for power consumption most of the measures on a d
 
 ## Baseline models
 
+We first tried 2 baseline models. One forecasting by replicating last know day and second by forecastig mean aggregate on each measure of the day. The second baseline model looks like the following:
+<p align="center">
+  <img src="img/eda/eda_exam-4-1.jpg" width="310" />
+</p>
 <p align="center">
   <img src="img/baseline/baseline-1.png" width="310" />
 </p>
