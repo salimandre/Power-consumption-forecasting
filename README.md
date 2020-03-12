@@ -54,6 +54,26 @@ On validation set we get the following results:
 
 ## Linear Regression models
 
+We performed the following models:
+
+<p align="center">
+  <img src="img/linear_reg/linear_reg-models.png" width="310" />
+</p>
+
+On validation set we get the following forecasts:
+
+<p align="center">
+  <img src="img/linear_reg/linear_reg-3.jpg" width="310" />
+  <img src="img/linear_reg/linear_reg-7.jpg" width="310" />
+  <img src="img/linear_reg/linear_reg-11.jpg" width="310" />
+</p>
+
+On validation set we get the following results:
+
+<p align="center">
+  <img src="img/linear_reg/linear_reg-rmse.png" width="310" />
+</p>
+
 ## Exponential models
 
 ## ARIMA model
