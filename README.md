@@ -79,7 +79,7 @@ On validation set we get the following results:
 We performed the following models:
 
 <p align="center">
-  <img src="img/exp_model/expo-1_.jpg" width="410" />
+  <img src="img/exp_model/expo-1_.jpg" width="450" />
 </p>
 
 On validation set we get the following forecasts:
@@ -91,7 +91,7 @@ On validation set we get the following forecasts:
 On validation set we get the following results:
 
 <p align="center">
-  <img src="img/exp_model/expo-3_.jpg" width="270" />
+  <img src="img/exp_model/expo-3_.jpg" width="310" />
 </p>
 
 ## ARIMA model
