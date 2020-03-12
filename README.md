@@ -26,7 +26,7 @@ We observe that both time series have **seasonality**. Although power consumptio
   <img src="img/eda/eda_exam-10-1.jpg" width="310" /> 
 </p>
 
-On **boxplots** we notice that for power consumption most of the measures on a day have low variance. Measures near 8 am and 5 pm have high variance though. It could be expected since it is when the people leave and go back home.
+On **boxplots** we notice that for power consumption most of the measures on a day have low variance. Measures near 8 am and 5 pm have high variance though. It could be expected since it is when the people leave and go back home. In the contrary in the case of temperature we notice high variance for each measure of the day. Indeed temperature cannot be explained only by trend and seasonality. 
 
 ## Baseline models
 
